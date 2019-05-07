@@ -7,5 +7,7 @@ OR
 
 Contact Us 
 Web: www.cyberguider.com
-Twitter: twitter.com/cyberguider
-Facebook: facebook.com/cyberguider
+Twitter: https://twitter.com/cyberguider
+Pinterest: https://www.pinterest.com/cyberguider/
+Facebook: https://www.facebook.com/cyberguider
+Instagram: https://www.instagram.com/cyberguider/
