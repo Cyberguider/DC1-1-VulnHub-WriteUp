@@ -3,10 +3,7 @@ This DC-1 VulnHUB Walkthrough is to serve as a guide while practicing system vul
 
 Further details can be found @ https://www.cyberguider.com/dc11-vulnhub-walkthrough/ 
 
-OR 
-
-Contact Us 
-Web: www.cyberguider.com 
+Website: www.cyberguider.com 
 Twitter: https://twitter.com/cyberguider 
 Facebook: https://www.facebook.com/cyberguider 
 GitHub: https://github.com/cyberguider
